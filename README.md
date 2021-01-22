@@ -1,4 +1,4 @@
-# Angular Photos
+# Angular Email Client
 
 ## Development server
 
